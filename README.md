@@ -1,6 +1,8 @@
 # Secure VPN Configuration for Remote Access
 
-![VPN Setup Diagram](![image](https://github.com/user-attachments/assets/243c8ae2-da56-46e1-af71-0d8b82cc39ec)
+![VPN Setup Diagram]![image](https://github.com/user-attachments/assets/a8714cae-65e8-43a9-a1e8-3aad27d75144)
+
+)
 )
 
 ## Introduction
